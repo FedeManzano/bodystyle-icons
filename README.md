@@ -16,10 +16,8 @@ que permite a través de su enlace ```CDN``` o de la descarga directa utlizar es
     - bs-iconos.min.css
   - svg
     - imagenes.`svg`
-  - [LICENCE]()
-  - [package]()
-  - [package.lock]()
-  - README
+  - [LICENCE](https://github.com/FedeManzano/bodystyle-icons/blob/master/LICENSE)
+
 
 ## CDN
 
