@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?p5gvnv');
-  src:  url('fonts/icomoon.eot?p5gvnv#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?p5gvnv') format('truetype'),
-    url('fonts/icomoon.woff?p5gvnv') format('woff'),
-    url('fonts/icomoon.svg?p5gvnv#icomoon') format('svg');
+  font-family: 'bodyui';
+  src:  url('fonts/bodyui.eot?p5gvnv');
+  src:  url('fonts/bodyui.eot?p5gvnv#iefix') format('embedded-opentype'),
+    url('fonts/bodyui.ttf?p5gvnv') format('truetype'),
+    url('fonts/bodyui.woff?p5gvnv') format('woff'),
+    url('fonts/bodyui.svg?p5gvnv#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="bs-"], [class*=" bs-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'bodyui' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
