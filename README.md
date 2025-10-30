@@ -43,9 +43,6 @@ Podemos disponer de los iconos a través de la descarga directa a través del si
 
 [body-icons](https://mega.nz/file/8UtmiJaD#JTvhjqBeav7pMUfeSRDLTBQ_onXXt_uLeZ2wqkoG6jc)
 
-[bodystyle](https://bodystyle.000webhostapp.com) :books:
-[Repositorio](https://bodystyle.000webhostapp.com) :books:
-
 ## Instalación
 
 La instalación es a través de el CDN de los archivos de estilo que componen la librería.
