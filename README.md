@@ -29,7 +29,7 @@ que permite a través de su enlace ```CDN``` o de la descarga directa utlizar es
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Link con el CDN de los estilos css  -->
-        <link rel="stylesheet" href="https://rawcdn.githack.com/FedericoManzano/bodystyle-iconos/67ed1347160750e506d5153c8ae523057db50b03/iconos/bs-iconos.min.css">
+        <link rel="stylesheet" href="https://raw.githack.com/FedeManzano/bodystyle-icons/refs/heads/master/iconos/bs-iconos.min.css">
     </head>
     <body>
         <span class="bs-books"></span>
