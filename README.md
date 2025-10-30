@@ -41,7 +41,7 @@ que permite a través de su enlace ```CDN``` o de la descarga directa utlizar es
 
 Podemos disponer de los iconos a través de la descarga directa a través del siguiente enlace:
 
-[body-icons](https://mega.nz/file/8UtmiJaD#JTvhjqBeav7pMUfeSRDLTBQ_onXXt_uLeZ2wqkoG6jc)
+[body-icons](https://mega.nz/file/BYMTjAxb#G-UbqzgukUvKCfGAcK2SN_UPmZL8E9zT_6uKCb1GFLM)
 
 ## Instalación
 
