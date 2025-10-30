@@ -3,18 +3,10 @@
 [![Documentación](https://img.shields.io/badge/bodyicon-v1.1.0-green.svg)](https://bodystyle.webcindario.com)
 [![Licencia](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](https://github.com/FedeManzano/bodystyle-icons/blob/master/LICENCE)
 
-Conjunto de iconos fuente para añadirle a los elementos en las páginas web.
+Conjunto de iconos del tipo Fonts para el diseño web, vinculados con la librería [Bodystyle](https://github.com/FedeManzano/bpdystyle)
+que permite a través de su enlace ```CDN``` o de la descarga directa utlizar estos recursos.
 
-
-## Contenido :clipboard:
-
-- [Estructura](https://github.com/FedericoManzano/bodystyle-iconos#estructura)
-- [Documentación](https://github.com/FedericoManzano/bodystyle-iconos#documentaci%C3%B3n-book)
-- [Instalación](https://github.com/FedericoManzano/bodystyle-iconos#instalaci%C3%B3n)
-- [Utilización](https://github.com/FedericoManzano/bodystyle-iconos#utilizaci%C3%B3n)
-- [Licencia](https://github.com/FedericoManzano/bodystyle-iconos/blob/master/LICENCE)
-
-## Estructura 
+## :clipboard: Estructura 
 
 - bodystyle-iconos
   - iconos
@@ -22,8 +14,6 @@ Conjunto de iconos fuente para añadirle a los elementos en las páginas web.
       - fuentes. `oet` | `svg` | `ttf` | `woff`
     - bs-iconos.css
     - bs-iconos.min.css
-  - node_modules
-  - pruebas
   - svg
     - imagenes.`svg`
   - [LICENCE]()
@@ -31,19 +21,7 @@ Conjunto de iconos fuente para añadirle a los elementos en las páginas web.
   - [package.lock]()
   - README
 
-
-## Documentación :book:
-
-Todo lo referente a los íconos podemos encontrarlo en la documentación de Bodystyle en el siguente enlace.
-
-[bodystyle](https://bodystyle.000webhostapp.com) :books:
-[Repositorio](https://bodystyle.000webhostapp.com) :books:
-
-## Instalación
-
-La instalación es a través de el CDN de los archivos de estilo que componen la librería.
-
-### Plantilla
+## CDN
 
 ```html
 <!DOCTYPE html>
@@ -56,26 +34,27 @@ La instalación es a través de el CDN de los archivos de estilo que componen la
         <link rel="stylesheet" href="https://rawcdn.githack.com/FedericoManzano/bodystyle-iconos/67ed1347160750e506d5153c8ae523057db50b03/iconos/bs-iconos.min.css">
     </head>
     <body>
-        <span class="bs-book"></span>
+        <span class="bs-books"></span>
     </body>
 </html>
 ```
 
-Para descargar el código fuente podemos hacer un clone desde el repositorio.
+## Descarga :book:
 
-```bash
-    git clone https://github.com/FedericoManzano/bodystyle-iconos
-```
+Podemos disponer de los iconos a través de la descarga directa a través del siguiente enlace:
 
-## utilización 
+[body-icons](https://mega.nz/file/8UtmiJaD#JTvhjqBeav7pMUfeSRDLTBQ_onXXt_uLeZ2wqkoG6jc)
 
-Para poder utilizar los íconos simplemente añadimos una etuiqueta `span` al elemento al cual queremos añadirle un ícono y luego al span le agregamos la clase correspondiente a cada uno de los íconos.
+[bodystyle](https://bodystyle.000webhostapp.com) :books:
+[Repositorio](https://bodystyle.000webhostapp.com) :books:
 
-### Ejemplo
+## Instalación
 
-```html
-    <h1>Esto es un H1 <span class="bs-book">&nbsp;</span></h1>
-```
+La instalación es a través de el CDN de los archivos de estilo que componen la librería.
+
+## Autor
+
+[Federico Manzano](https://github.com/FedeManzano)
 
 
 
